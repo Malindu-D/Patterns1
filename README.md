@@ -1,5 +1,4 @@
 create some pattern using for loops,
-
 pattern,
 
 4 3 2 1 
